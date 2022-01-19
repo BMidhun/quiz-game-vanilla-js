@@ -1,5 +1,6 @@
 {
   "name": "quiz-game",
+  "homepage": "https://bmidhun.github.io/quiz-game-vanilla-js/",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",

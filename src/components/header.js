@@ -15,7 +15,7 @@ function Header() {
 
     const heading = createElement({
       elementType: "h1",
-      textContent: "Quiz Game",
+      textContent: "Quiz App",
     });
 
     const viewScoreCardBtn = createElement({
